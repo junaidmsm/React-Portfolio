@@ -31,7 +31,7 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>muhammad Junaid Siddique's Portfolio | {currentTab} </title>
+        <title>Muhammad Junaid Siddique's Portfolio | {currentTab} </title>
       </Helmet>
       ;
       <Header
