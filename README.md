@@ -7,6 +7,7 @@ A showcasing of my full stack dev projects. Contains 6 projects, an information 
 You can access more badges and their purposes at [shields.io](https://shields.io)git
 
 ## Table of Contents
+
   * [Installation](#installation)
   * [Demo](#demo)  
   * [Questions](#questions)
