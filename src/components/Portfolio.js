@@ -1,11 +1,11 @@
 import React from "react";
-import Image from "../../assets/images/";
-import Image from "../../assets/images/";
+import textEditorImage from "../../assets/images/textEditor.png";
+import passwordGeneratorImage from "../../assets/images/passwordGenerator.png";
 import weatherDashImage from "../../assets/images/Weather_Dash.png";
 import noteTakerImage from "../../assets/images/NoteTaker.png";
-import Image from "../../assets/images/";
-import Image from "../../assets/images/";
-import Image from "../../assets/images/";
+import workDayShedulerImage from "../../assets/images/workDaySheduler.png";
+import techBlogImage from "../../assets/images/techBlog.png";
+import bookSearchEngineImage from "../../assets/images/bookSearchEngine.png";
 
 function Portfolio() {
   return (

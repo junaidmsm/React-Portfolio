@@ -22,7 +22,7 @@ function Header(props) {
       <section class="hero">
         <div class="hero-cta">
           {/* <img
-            src={coverImage}
+            src={mainImage}
             className="my-2"
             style={{ width: "100%" }}
             alt="cover"
