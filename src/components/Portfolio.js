@@ -1,11 +1,11 @@
 import React from "react";
-import textEditorImage from "../assets/images/textEditor.png";
-import passwordGeneratorImage from "../assets/images/passwordGenerator.png";
-import teamProfileGeneratorImage from "../assets/images/teamProfileGenerator.png";
-import noteTakerImage from "../assets/images/noteTaker.png";
-import workDaySchedularImage from "../assets/images/workDaySchedular.png";
-import techBlogImage from "../assets/images/techBlog.png";
-import bookSearchEngineImage from "../assets/images/bookSearchEngine.png";
+import textEditorImage from "../assets/images/text-editor.png";
+import passwordGeneratorImage from "../assets/images/password-generator.png";
+import teamProfileGeneratorImage from "../assets/images/team-profile-generator.png";
+import noteTakerImage from "../assets/images/note-taker.png";
+import workDaySchedularImage from "../assets/images/work-day-schedular.png";
+import techBlogImage from "../assets/images/tech-blog.png";
+// import bookSearchEngineImage from "../assets/images/bookSearchEngine.png";
 
 function Portfolio() {
   return (
@@ -21,7 +21,7 @@ function Portfolio() {
               <a href="">
                 {" "}
                 <img
-                  src={bookSearchEngineImage}
+                  src={'bookSearchEngineImage'}
                   className="my-2"
                   style={{ width: "100%" }}
                   alt="Book-Search-Engine"
@@ -72,7 +72,7 @@ function Portfolio() {
               <a href="https://github.com/junaidmsm/password-generator">
                 {" "}
                 <img
-                  src={passWordGeneratorImage}
+                  src={'passWordGeneratorImage'}
                   className="my-2"
                   style={{ width: "100%" }}
                   alt="Password-Generator"
