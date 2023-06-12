@@ -9,7 +9,7 @@
     /*main colors */
     --primary-color: #0E5259;
     --secondary-color: #9175bf;
-    --tertiary-color: #D5F2EA;
+    --tertiary-color: #22b98f;
   }
   
   #root {
@@ -197,7 +197,7 @@
   /* REACH OUT STYLES START */
   #reach-out {
     /* margin-top: 5px; */
-    background: #75bfbb;
+    background: #10997b;
   }
   
   #reach-out h2 {
@@ -302,7 +302,7 @@
   }
   
   .contact-info a:hover {
-    color: #ACF2E5;
+    color: #13c7a6;
     transition: .5s ease;
   }
   
@@ -385,7 +385,7 @@
   
   .job-img img:hover {
     /*    transition: .5s ease-in-out;*/
-    border: 5px solid #ACF2E5;
+    border: 5px solid #14dab5;
     transform: scale(1.1);
   }
   
@@ -452,7 +452,7 @@
   .article {
     margin: 10px;
     margin-bottom: 1em;
-    background-color: #B4D9CB;
+    background-color: #15d8be;
   }
   
   
