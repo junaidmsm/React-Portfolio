@@ -1,11 +1,11 @@
 import React from "react";
 import textEditorImage from "../assets/images/text-editor.png";
-import passwordGeneratorImage from "../assets/images/password-generator.png";
+import passwordGeneratorImage from "../assets/images/passwordGenerator.png";
 import teamProfileGeneratorImage from "../assets/images/team-profile-generator.png";
 import noteTakerImage from "../assets/images/note-taker.png";
 import workDaySchedularImage from "../assets/images/work-day-schedular.png";
 import techBlogImage from "../assets/images/tech-blog.png";
-// import bookSearchEngineImage from "../assets/images/bookSearchEngine.png";
+import bookSearchEngineImage from "../assets/images/bookSearchEngine.png";
 
 function Portfolio() {
   return (
@@ -18,18 +18,18 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="">
+              <a href="https://github.com/junaidmsm/Book-Search-Engine">
                 {" "}
                 <img
-                  src={'bookSearchEngineImage'}
+                  src={bookSearchEngineImage}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="Book-Search-Engine"
+                  alt="bookSearchEngine"
                 />
               </a>
             </div>
             <div className="job-text">
-              <h4></h4>
+              <h4>Book Search Engine</h4>
               <p>
               The Book search engine is an application is leveraging the entire MERN stack and with a React front end, MongoDB database, and Node.js/Express.js server and API.
               It's set up to allow users to save book searches to the back end.
@@ -53,7 +53,7 @@ function Portfolio() {
               </a>
             </div>
             <div className="job-text">
-              <h4></h4>
+              <h4>Tech Blog</h4>
               <p>
               This application is a blog site for developers! where tech fans can share their thoughts, opinions, articles and blog posts.
               Upon coming to the site, the homepage presents with existing blog posts and a navbar to help direct you around the site.
@@ -72,15 +72,15 @@ function Portfolio() {
               <a href="https://github.com/junaidmsm/password-generator">
                 {" "}
                 <img
-                  src={'passWordGeneratorImage'}
+                  src={passwordGeneratorImage}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="Password-Generator"
+                  alt="PasswordGenerator"
                 />
               </a>
             </div>
             <div className="job-text">
-              <h4></h4>
+              <h4>Password Generator</h4>
               <p>
               Using JavaScript and CSS I want to randomly generate a password that meets certain criteria SO THAT I can create a strong password that provides greater security.{" "}
               </p>
@@ -149,7 +149,7 @@ function Portfolio() {
               </a>
             </div>
             <div className="job-text">
-              <h4></h4>
+              <h4>Text Editor</h4>
               <p>
               The application is a web text editor where the user can create notes or code snippets with or without an internet connection and where the user can reliably retrieve them for later use. The integrated service worker and Cache API's ensure that the application will remain fully functional even without and active internet connection.
               This application allows the user to access visited pages even if the application is offline.{" "}
@@ -172,7 +172,7 @@ function Portfolio() {
               </a>
             </div>
             <div className="job-text">
-              <h4></h4>
+              <h4>Work Day Schedular</h4>
               <p>
               A simple calendar application that allows a user to save events for each hour of the day.
               This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.{" "}

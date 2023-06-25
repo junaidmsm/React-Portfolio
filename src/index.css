@@ -52,7 +52,7 @@
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-image: url("");
+    background-image: url("../src/assets/main/Clouds.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -116,7 +116,7 @@
   
   /* Hero Style Start */
   .hero {
-    background-image: url("");
+    background-image: url("../src/assets/main/Clouds.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
