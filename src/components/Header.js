@@ -31,7 +31,7 @@ function Header(props) {
           <h2>Welcome</h2>
           <p>
             Welcome to Muhammad Junaid Siddique's portfolio page built with React. Here,
-            you can find a small sample of the projects se has worked on over
+            you can find a small sample of the projects he has worked on over
             the course of the program.
           </p>
         </div>
